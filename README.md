@@ -1,2 +1,2 @@
 # PesaLedger
-A software to record recurrent mpesa transactions
+Decode this and make it work
